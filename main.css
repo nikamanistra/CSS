@@ -1,0 +1,16 @@
+/* LQS Page Styles  */
+
+.lqs-body {
+  display: grid;
+  grid-gap: 30px;
+}
+
+.lqs-date-pickers {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.lqs-days-pickers {
+  margin: 10px;
+}
